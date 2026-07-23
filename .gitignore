@@ -1,0 +1,18 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.runs/
+*.gen/
+*.Xil/
+
+# Waveforms
+*.wcfg
+*.wdb
+
+# Temporary
+*.tmp
