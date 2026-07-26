@@ -29,7 +29,7 @@ The processor consists of:
 ## Technologies
 
 - Verilog HDL
-- ModelSim/QuestaSim
+- Vivado Design Suite
 - RISC-V ISA
 
 ## Learning Outcomes
